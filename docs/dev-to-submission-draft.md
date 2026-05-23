@@ -79,7 +79,7 @@ The app also supports mock mode, so the UI can be tested without a Gemini API ke
 
 ## Code
 
-Repository: pending GitHub repository URL.
+Repository: https://github.com/bryko254/contextforge
 
 The project is structured as a small full-stack app:
 
