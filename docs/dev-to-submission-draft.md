@@ -54,9 +54,17 @@ The output is meant to be practical rather than marketing-heavy. If ContextForge
 
 ## Demo
 
-Demo link: pending deployment URL.
+The project is available on GitHub and can be run locally with Docker Compose:
 
-Demo video: pending recording URL.
+```bash
+git clone https://github.com/bryko254/contextforge.git
+cd contextforge
+cp backend/.env.example backend/.env
+cp frontend/.env.example frontend/.env
+docker compose up --build
+```
+
+Then open `http://localhost:5173`.
 
 The judge-friendly demo flow is:
 

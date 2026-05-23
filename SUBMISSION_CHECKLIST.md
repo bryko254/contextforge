@@ -4,9 +4,9 @@ Use this checklist before publishing the DEV post for the Build With Gemma 4 tra
 
 ## Required Links
 
-- Live demo: pending deployment URL.
+- Live demo: optional; local Docker demo instructions are included in the article.
 - GitHub repository: https://github.com/bryko254/contextforge.
-- Demo video: pending recording URL.
+- Demo video: optional; add a recording URL if one is prepared before the deadline.
 
 ## Local Verification
 
