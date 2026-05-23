@@ -2,6 +2,9 @@
 *.env
 !.env.example
 
+.codex/
+.agents/
+
 .venv/
 venv/
 __pycache__/
